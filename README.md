@@ -13,3 +13,5 @@
 | [Remove Element](https://leetcode.com/problems/remove-element/description/)                              | Easy       | Array, Two Pointers | [Solution](src/remove-element)                      |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy       | Array, Two Pointers | [Solution](src/remove-duplicates-from-sorted-array) |
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                           | Easy       | Array, Simulation   | [Solution](src/concatenation-of-array)              |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                     | Easy       | String, Stack       | [Solution](src/valid-parentheses)                   |
+| [Min Stack](https://leetcode.com/problems/min-stack)                                                     | Medium     | Stack, Design       | [Solution](src/min-stack/)                          |
